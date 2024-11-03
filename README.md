@@ -1,1 +1,1 @@
-# challenge-conversor_de_monedas, edindo el readme.md
+# challenge-conversor_de_monedas, editando el readme.md
